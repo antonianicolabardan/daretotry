@@ -1,0 +1,163 @@
+* {
+    box-sizing:border-box;
+}
+
+body {
+    background-color: black;
+    font-family: Trebuchet MS;
+        }
+footer {
+    background-color:MediumSeaGreen;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    }
+h3 {
+    font-size: 50px;
+}
+.navbar {
+    background-color:MediumSeaGreen;
+    margin-bottom: 1%;
+}
+.impreuna {
+    display: flex;
+    justify-content: space-between;
+	width: 100%;
+	color: MediumSeaGreen;
+	border-style: double none double none;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+    margin-bottom: 1%;
+    font-size: 250%;
+}
+.about {
+    border-style: none double none double;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+}
+.noi {
+    margin-bottom: 1%;
+}
+.text-light {
+    font-size: 120%;
+}
+.team p{
+	color: MediumSeaGreen;
+    justify-content: end;
+}
+.instructiuni {
+	text-align: center;
+	font-size: 200%;
+	color: MediumSeaGreen;
+	border-style: none double none double;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+	}
+.how {
+	margin-bottom:0px;
+	border-top: double;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+
+	}
+.work {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	}
+.music {
+	margin-top: 0px;
+    text-align: center;
+	border-bottom: double;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+	}
+.citat {
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 300%;
+    color: MediumSeaGreen;
+    border-style: double none none none;
+    border-color: MediumSeaGreen;
+    border-width: thick;
+    margin: 10px;
+        }
+.autor {
+    text-align: right;
+    font-size: 250%;
+    font-family: Papyrus;
+    color: MediumSeaGreen;
+    border-style: none none double none;
+    border-color: MediumSeaGreen;
+    border-width: thick;
+    margin: 0px 0px;
+    padding-right: 100px;
+    margin-bottom: 1%;
+        }
+.contact {  
+     display: block;
+    text-align:center;
+        }
+        
+.contact img {
+     width: 40px;
+    margin: 6px 20px;
+        }
+            
+.contact img:hover {
+     width: 52px;
+    margin: 0px 14px;
+        }
+.copyright {
+    text-align: center;
+        }
+.copyright p {
+    font-size: 20px;
+
+}
+.carousel-item img {
+   width: 40%;
+   margin: auto;
+}
+.carousel-indicators {
+    margin-bottom: 0%;
+}
+.card {
+    background-color: mediumseagreen;
+}
+.card img {
+    width: 30%;
+    margin: auto;
+    margin-top: 1%;
+}
+.yes {
+    color: mediumseagreen;
+    margin-bottom: 1%;
+}
+.chestii ul {
+    list-style-type: none !important;
+}
+.treime h3 {
+	font-size: 200%;
+}
+.treime h4 {
+	font-size: 160%;
+}
+.treime ul {
+    list-style-type: none !important;
+}
+.aici {
+    text-align: center;
+    border-style: double none double none;
+	border-color: MediumSeaGreen;
+	border-width: thick;
+    justify-content: space-between;
+	margin-bottom: 75px;
+}
+.us {
+	color: MediumSeaGreen;
+	font-size: 175%;
+}
+.us ul {
+	list-style-type: none;
+	padding-top: 50px;
+}
